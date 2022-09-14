@@ -1,0 +1,55 @@
+p
+{
+  color:Blue;
+  font-size:20pt;
+  text-align:center;
+}
+h2
+{
+  font-size:30pt;
+  text-align:center;
+}
+h3
+{
+  font-size: 25pt;	
+  text-align:center; 
+}
+table
+{
+  text-align:center;
+}
+a
+{
+  font-family:Verdana;
+  font-weight:bold;
+}
+li
+{
+  list-style-type:none;
+  padding:0px;
+  color:Navy;
+}
+img
+{
+  width: 1500; height: auto;	
+}
+
+.class1
+{
+  color:#FD1C03;
+  font-size:pt18;
+  text-align:center;
+}
+.class2
+{
+  color:#C04000;
+  font-size:pt12;
+  text-align:center;
+}
+
+#id1
+{
+  color:Purple;
+  font-size:pt20;
+  text-align:left;
+}
